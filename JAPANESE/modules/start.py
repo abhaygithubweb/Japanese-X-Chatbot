@@ -29,20 +29,20 @@ from JAPANESE.modules.helpers import (
 
 # Random Start Images
 IMG = [
-    "https://graph.org/file/210751796ff48991b86a3.jpg",
-    "https://graph.org/file/7b4924be4179f70abcf33.jpg",
-    "https://graph.org/file/f6d8e64246bddc26b4f66.jpg",
-    "https://graph.org/file/63d3ec1ca2c965d6ef210.jpg",
-    "https://graph.org/file/9f12dc2a668d40875deb5.jpg",
-    "https://graph.org/file/0f89cd8d55fd9bb5130e1.jpg",
-    "https://graph.org/file/e5eb7673737ada9679b47.jpg",
-    "https://graph.org/file/2e4dfe1fa5185c7ff1bfd.jpg",
-    "https://graph.org/file/36af423228372b8899f20.jpg",
-    "https://graph.org/file/c698fa9b221772c2a4f3a.jpg",
-    "https://graph.org/file/61b08f41855afd9bed0ab.jpg",
-    "https://graph.org/file/744b1a83aac76cb3779eb.jpg",
-    "https://graph.org/file/814cd9a25dd78480d0ce1.jpg",
-    "https://graph.org/file/e8b472bcfa6680f6c6a5d.jpg",
+    "https://graph.org/file/23aba52acf595658e3937.jpg",
+    "https://graph.org/file/184ea2fa773b3483c276e.jpg",
+    "https://graph.org/file/d922933fce752cc2ebc13.jpg",
+    "https://graph.org/file/6521cddcefbfab9a234f5.jpg",
+    "https://graph.org/file/3a1c084b87aaafc42738a.jpg",
+    "https://graph.org/file/22d4b65c5ec9f82242698.jpg",
+    "https://graph.org/file/5255c32a255069923a9de.jpg",
+    "https://graph.org/file/b7b0f16c9ac989b0e190e.jpg",
+    "https://graph.org/file/e74fb7feb6fb69941dfb0.jpg",
+    "https://graph.org/file/26794ac3dca77479409da.jpg",
+    "https://graph.org/file/02c69572b58d6a0c1ef74.jpg",
+    "https://graph.org/file/c86bf1b904a714294f2e2.jpg",
+    "https://graph.org/file/92983c6ad6bb2867ace33.jpg",
+    "https://graph.org/file/b303067a44caf3d7792e9.jpg",
 ]
 
 
