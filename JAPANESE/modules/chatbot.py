@@ -8,7 +8,7 @@ from pyrogram.enums import ChatAction
 from pyrogram.types import InlineKeyboardMarkup, Message
 
 from config import MONGO_URL
-from JAPANESE import nexichat
+from JAPANESE import JAPANESE
 from JAPANESE.modules.helpers import CHATBOT_ON, is_admins
 
 
