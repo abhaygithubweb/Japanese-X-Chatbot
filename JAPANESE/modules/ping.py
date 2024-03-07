@@ -29,7 +29,7 @@ IMG = [
     "https://graph.org/file/5255c32a255069923a9de.jpg",
     "https://graph.org/file/b7b0f16c9ac989b0e190e.jpg",
     "https://graph.org/file/e74fb7feb6fb69941dfb0.jpg",
-    "https://graph.org/file/c698fa9b221772c2a4f3a.jpg",
+    "https://graph.org/file/26794ac3dca77479409da.jpg",
     "https://graph.org/file/61b08f41855afd9bed0ab.jpg",
     "https://graph.org/file/744b1a83aac76cb3779eb.jpg",
     "https://graph.org/file/814cd9a25dd78480d0ce1.jpg",
