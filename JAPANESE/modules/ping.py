@@ -31,7 +31,7 @@ IMG = [
     "https://graph.org/file/e74fb7feb6fb69941dfb0.jpg",
     "https://graph.org/file/26794ac3dca77479409da.jpg",
     "https://graph.org/file/02c69572b58d6a0c1ef74.jpg",
-    "https://graph.org/file/744b1a83aac76cb3779eb.jpg",
+    "https://graph.org/file/c86bf1b904a714294f2e2.jpg",
     "https://graph.org/file/814cd9a25dd78480d0ce1.jpg",
     "https://graph.org/file/e8b472bcfa6680f6c6a5d.jpg",
 ]
