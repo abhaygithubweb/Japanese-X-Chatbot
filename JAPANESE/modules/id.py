@@ -1,7 +1,7 @@
 from pyrogram import filters
 from pyrogram.enums import ParseMode
 
-from JAPANESE import nexichat
+from JAPANESE import JAPANESE 
 
 
 @JAPANESE.on_cmd("id")
