@@ -20,7 +20,7 @@ from JAPANESE.modules.helpers import PNG_BTN
 
 # Random Start Images
 IMG = [
-    "https://graph.org/file/210751796ff48991b86a3.jpg",
+    "https://graph.org/file/23aba52acf595658e3937.jpg",
     "https://graph.org/file/7b4924be4179f70abcf33.jpg",
     "https://graph.org/file/f6d8e64246bddc26b4f66.jpg",
     "https://graph.org/file/63d3ec1ca2c965d6ef210.jpg",
