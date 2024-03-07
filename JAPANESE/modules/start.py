@@ -112,7 +112,7 @@ async def start(_, m: Message):
 
 
 @JAPANESE.on_cmd("help")
-async def help(client: nexichat, m: Message):
+async def help(client: JAPANESE, m: Message):
     if m.chat.type == ChatType.PRIVATE:
         hmm = await m.reply_photo(
             photo=random.choice(IMG),
