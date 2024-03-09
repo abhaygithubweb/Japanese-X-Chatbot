@@ -84,8 +84,8 @@ async def cb_handler(_, query: CallbackQuery):
                 show_alert=True,
             )
         else:
-            is_vick = vick.find_one({"chat_id": query.message.chat.id})
-            if not is_vick:
+            is_DAXX = DAXX.find_one({"chat_id": query.message.chat.id})
+            if not is_DAXX:
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴀʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇᴅ.**")
             if is_vick:
                 vick.delete_one({"chat_id": query.message.chat.id})
