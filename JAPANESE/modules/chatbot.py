@@ -60,12 +60,12 @@ async def chatbot_text(client: Client, message: Message):
                 if not Yo == "sticker":
                     await message.reply_text(f"{hey}")
 
-    if message.reply_to_message:
-        DAXXdb = MongoClient(MONGO_URL)
-        DAXX = DAXXdb["DAXXDb"]["DAXX"]
-        is_DAXX = DAXX.find_one({"chat_id": message.chat.id})
+if message.reply_to_message:
+        vickdb = MongoClient(MONGO_URL)
+        vick = vickdb["VickDb"]["Vick"]
+        is_vick = vick.find_one({"chat_id": message.chat.id})
         if message.reply_to_message.from_user.id == client.id:
-            if not is_DAXX:
+            if not is_vick:
                 await client.send_chat_action(message.chat.id, ChatAction.TYPING)
                 K = []
                 is_chat = chatai.find({"word": message.text})
