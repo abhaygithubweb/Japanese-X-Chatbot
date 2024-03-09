@@ -84,11 +84,11 @@ async def cb_handler(_, query: CallbackQuery):
                 show_alert=True,
             )
         else:
-            is_DAXX = DAXX.find_one({"chat_id": query.message.chat.id})
-            if not is_DAXX:
+            is_vick = vick.find_one({"chat_id": query.message.chat.id})
+            if not is_vick:
                 await query.edit_message_text(f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴀʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇᴅ.**")
-            if is_DAXX:
-                DAXX.delete_one({"chat_id": query.message.chat.id})
+            if is_vick:
+                vick.delete_one({"chat_id": query.message.chat.id})
                 await query.edit_message_text(
                     f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴇɴᴀʙʟᴇᴅ ʙʏ** {query.from_user.mention}."
                 )
@@ -102,11 +102,11 @@ async def cb_handler(_, query: CallbackQuery):
             )
             return
         else:
-            is_DAXX = DAXX.find_one({"chat_id": query.message.chat.id})
-            if not is_DAXX:
-                DAXX.insert_one({"chat_id": query.message.chat.id})
+            is_vick = vick.find_one({"chat_id": query.message.chat.id})
+            if not is_vick:
+                vick.insert_one({"chat_id": query.message.chat.id})
                 await query.edit_message_text(
                     f"**ᴄʜᴀᴛ-ʙᴏᴛ ᴅɪsᴀʙʟᴇᴅ ʙʏ** {query.from_user.mention}."
                 )
-            if is_DAXX:
+            if is_vick:
                 await query.edit_message_text("**ᴄʜᴀᴛ-ʙᴏᴛ ᴀʟʀᴇᴀᴅʏ ᴅɪsᴀʙʟᴇᴅ.**")
