@@ -1,4 +1,4 @@
-# Japanese-X-Chatbot
+# 𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆-𝑿-𝑪𝒉𝒂𝒕𝒃𝒐𝒕
 ![images (4)](https://github.com/Japanese-Userbots/Japanese-X-Chatbot/assets/156512147/6c7f39eb-bd69-42b2-a272-76b9a597cae6)
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑯𝒆𝒓𝒐𝒌𝒖
