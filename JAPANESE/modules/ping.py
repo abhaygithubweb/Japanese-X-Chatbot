@@ -40,6 +40,10 @@ IMG = [
     "https://graph.org/file/84b3c23982f765fefc898.jpg",
     "https://graph.org/file/4af570c30ed1378f332b1.jpg",
     "https://graph.org/file/366946ca38e24dd57b6c4.jpg",
+    "https://graph.org/file/979069f0620e5fca80710.jpg",
+    "https://graph.org/file/3878f96e3a6121d872ef8.jpg",
+    "https://graph.org/file/b2dff174e6e614912536c.jpg",
+    "https://graph.org/file/5f6221368d66f1cdd5473.jpg",
 ]
 
 
