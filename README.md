@@ -1,6 +1,8 @@
 <h1 align="center">𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆-𝑿-𝑪𝒉𝒂𝒕𝒃𝒐𝒕</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![images (5)](https://github.com/Japanese-Userbots/Japanese-X-Chatbot/assets/156512147/1c1af3ee-c9a4-406d-a1cf-1f5f57b8a699)
+
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑯𝒆𝒓𝒐𝒌𝒖
 
