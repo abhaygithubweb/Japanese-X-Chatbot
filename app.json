@@ -1,7 +1,7 @@
 {
-  "name": "Japanese",
-  "description": "A telegram bot",
-  "logo": "https://graph.org/file/67fe84bdaf7e104ac56b6.jpg",
+  "name": "𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝑿 𝑪𝒉𝒂𝒕𝒃𝒐𝒕",
+  "description": "𝑨 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 𝑪𝒉𝒂𝒕𝒃𝒐𝒕 𝒘𝒊𝒕𝒉 𝒂𝒅𝒗𝒂𝒏𝒄𝒆 𝒂𝒏𝒊𝒎𝒆 𝒇𝒆𝒂𝒕𝒖𝒓𝒆𝒔",
+  "logo": "https://graph.org/file/43e06529a34ab16233dec.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
