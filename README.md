@@ -3,6 +3,13 @@
 
 ![images (5)](https://github.com/Japanese-Userbots/Japanese-X-Chatbot/assets/156512147/1c1af3ee-c9a4-406d-a1cf-1f5f57b8a699)
 
+<p align="center">
+<a href="https://github.com/Japanese-Userbots/Japanese-X-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/Japanese-Userbots/Japanese-X-Chatbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Japanese-Userbots/Japanese-X-Chatbot/network/members"> <img src="https://img.shields.io/github/forks/Japanese-Userbots/Japanese-X-Chatbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Japanese-Userbots/Japanese-X-Chatbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Japanese-Userbots/Japanese-X-Chatbot"> <img src="https://img.shields.io/github/repo-size/Japanese-Userbots/Japanese-X-Chatbot?color=white&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/nobitaaxd/Japanese-Userbots/Japanese-X-Chatbot/commits/nobitaaxd"> <img src="https://img.shields.io/github/last-commit/Japanese-Userbots/Japanese-X-Chatbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+</p>
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑯𝒆𝒓𝒐𝒌𝒖
 
