@@ -10,7 +10,7 @@ API_HASH = "4e984ea35f854762dcde906dce426c2d"
 # --------------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 MONGO_URL = getenv("MONGO_URL", None)
-OWNER_ID = "6694740726"
-SUPPORT_GRP = "Japanese_Userbot_Chat"
-UPDATE_CHNL = "Japanese_Userbot"
-OWNER_USERNAME = "Nobitaa_xd"
+OWNER_ID = "6717765982"
+SUPPORT_GRP = "abhaychatbot"
+UPDATE_CHNL = "abhayychatbot"
+OWNER_USERNAME = "Roll_no_61"
